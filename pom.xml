@@ -371,6 +371,6 @@
       <name>Sonatype OSS Snapshots Repository</name>
       <url>https://oss.sonatype.org/content/repositories/snapshots</url>
     </repository>
-  </repositories>
+  </repositories> 
 
 </project>
